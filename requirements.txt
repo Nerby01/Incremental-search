@@ -1,0 +1,4 @@
+xlwings==0.28.5
+rapidfuzz==2.13.7
+progress==1.6
+https://github.com/Nerby01/Excel-regex
